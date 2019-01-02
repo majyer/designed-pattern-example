@@ -1,0 +1,1 @@
+designed pattern example learning
