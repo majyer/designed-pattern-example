@@ -10,6 +10,12 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>singleton</module>
+        <module>abstract-document</module>
+        <module>abstractdocument</module>
+        <module>abstractdocument</module>
+        <module>adapter</module>
+        <module>abstractdocument</module>
+        <module>abstractdocument</module>
     </modules>
     <properties>
         <slf4j.version>1.7.21</slf4j.version>
