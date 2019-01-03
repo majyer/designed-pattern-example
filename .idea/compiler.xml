@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="abstractdocument" />
+        <module name="abstract-document" />
         <module name="adapter" />
         <module name="singleton" />
       </profile>
