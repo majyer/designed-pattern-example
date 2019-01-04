@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstract-document/abstractdocument.iml" filepath="$PROJECT_DIR$/abstract-document/abstractdocument.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapter/adapter.iml" filepath="$PROJECT_DIR$/adapter/adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designed-pattern-java.iml" filepath="$PROJECT_DIR$/designed-pattern-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
+    </modules>
+  </component>
+</project>
