@@ -2,28 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3287227-7d32-428b-9cde-4f666185b6fa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-document/abstractdocument.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/Captian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/FishingBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/FishingBoatAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/RowingBoat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstract-document/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/abstract-document/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/AbstractDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/AbstractDocument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/Document.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasParts.java" beforeDir="false" afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasParts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasPrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasType.java" beforeDir="false" afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/Part.java" beforeDir="false" afterPath="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/Part.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/adapter/adapter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/designed-pattern-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/singleton/target/" />
     <ignored path="$PROJECT_DIR$/adapter/target/" />
@@ -50,25 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HasParts.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasParts.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="25" column="61" lean-forward="true" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+            <state relative-caret-position="430">
+              <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,16 +46,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HasPrice.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasPrice.java">
+      <file leaf-file-name="Captian.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/Captian.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="320">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FishingBoat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/FishingBoat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#193#194#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FishingBoatAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/FishingBoatAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding>
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#272#273#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RowingBoat.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/RowingBoat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -94,7 +112,7 @@
         <entry file="file://$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasType.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#195#196#0" expanded="true" />
@@ -108,7 +126,7 @@
         <entry file="file://$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/Part.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -156,6 +174,11 @@
         <option value="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasPrice.java" />
         <option value="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasType.java" />
         <option value="$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/App.java" />
+        <option value="$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/RowingBoat.java" />
+        <option value="$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/Captian.java" />
+        <option value="$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/FishingBoat.java" />
+        <option value="$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/FishingBoatAdapter.java" />
+        <option value="$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/App.java" />
       </list>
     </option>
   </component>
@@ -175,11 +198,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="3" />
-    <option name="width" value="1378" />
-    <option name="height" value="733" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -195,51 +217,6 @@
             <path>
               <item name="designed-pattern-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="designed-pattern-java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designed-pattern-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designed-pattern-java" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract-document" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designed-pattern-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designed-pattern-java" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract-document" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designed-pattern-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designed-pattern-java" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract-document" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designed-pattern-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designed-pattern-java" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract-document" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designed-pattern-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designed-pattern-java" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract-document" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="document" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designed-pattern-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designed-pattern-java" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract-document" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="document" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designed-pattern-java" type="b2602c69:ProjectViewProjectNode" />
@@ -283,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.App (2)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.pattern.singleton.App" />
       <module name="singleton" />
@@ -291,6 +268,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.pattern.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.pattern.adapter.App" />
+      <module name="adapter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pattern.adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -350,9 +338,11 @@
     <list>
       <item itemvalue="Application.App" />
       <item itemvalue="Application.App (1)" />
+      <item itemvalue="Application.App (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.App (1)" />
       </list>
@@ -368,32 +358,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546506606524</updated>
-      <workItem from="1546506609960" duration="8128000" />
+      <workItem from="1546506609960" duration="9826000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8128000" />
+    <option name="totallyTimeSpent" value="9826000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.32897604" />
+      <window_info anchor="bottom" id="Messages" weight="0.32893288" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33223322" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2155361" />
       <window_info anchor="right" id="Database" />
       <window_info id="Learn" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -477,7 +466,7 @@
     <entry file="file://$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasPrice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#193#194#0" expanded="true" />
@@ -489,7 +478,7 @@
     <entry file="file://$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/HasType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#195#196#0" expanded="true" />
@@ -501,7 +490,7 @@
     <entry file="file://$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/domain/Part.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -532,10 +521,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/abstract-document/src/main/java/com/pattern/document/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="25" column="61" lean-forward="true" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
+        <state relative-caret-position="430">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/FishingBoat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/RowingBoat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/FishingBoatAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adapter/src/main/java/com/pattern/adapter/Captian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -592,7 +633,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>abstractdocument</last-edited>
+          <last-edited>adapter</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
