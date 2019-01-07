@@ -171,6 +171,8 @@
         <module>singleton</module>
         <module>abstract-document</module>
         <module>adapter</module>
+        <module>acyclic-visitor</module>
+        <module>abstract-factory</module>
     </modules>
     <dependencies>
         <dependency>

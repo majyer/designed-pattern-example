@@ -14,6 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="abstractdocument" target="" />
+      <module name="acyclicvisitor" target="" />
       <module name="adapter" target="1.8" />
       <module name="designed-pattern-java" target="1.8" />
       <module name="singleton" target="1.5" />
